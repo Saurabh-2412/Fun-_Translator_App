@@ -1,0 +1,109 @@
+body{
+    display: block;
+    margin: 2px;
+    background-image: url(/assets/evil-minion-minions-gif-clip-art-despicable-me-minions-holiday.jpg);
+    opacity: 0.95;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 50% 50%;
+    background-size: inherit;
+    height: 25px;
+}
+::-webkit-input-placeholder {
+    text-align: center;
+    padding: 50px;
+    font-size: larger;
+    font-weight: bolder;
+}
+textarea{
+    box-sizing: border-box;
+    display: block;
+    width: 75%;
+    min-height: 20vh;
+    margin: 2rem 10rem;
+    font-size: large;
+    font-family: inherit;
+    border:2.5px solid #f0dd34;
+}
+h1{
+    font-style: italic;
+    text-align: center;
+    background-color: #f0dd34;  
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    padding: 10px;
+}
+button{
+    padding: 10px;
+    margin: 0rem 42rem;
+    background-color: #f0dd34;
+}
+.texture{
+    text-align:center;
+    font-size: larger;
+    background-color: #f0dd34;
+    border: 0px solid #f0dd34;
+}
+.footer-info{
+    background-color: #f0dd34;
+    text-align: center;
+    padding: 20px;
+    font-style: oblique;
+}
+footer{
+    background-color: #f0dd34;
+    text-align: center;
+    font-size: xx-large;
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+    h1{
+        font-style: italic;
+        text-align: center;
+        background-color: #f0dd34;
+        display: block;
+        font-size: 2em;
+        margin-block-start: 0em;
+        margin-block-end: 0em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+        font-weight: bold;
+        padding: 10px;
+    }
+    h3{
+        background-color: #f0dd34;
+        text-align: center;
+        padding: 25px;
+    }
+    ::-webkit-input-placeholder {
+        text-align: center;
+        padding: 50px;
+    }
+    textarea{
+        box-sizing: border-box;
+        display: block;
+        width: 100%;
+        min-height: 20vh;
+        margin: 1rem 0rem;
+        font-size: large;
+        font-family: inherit;
+        border:5px solid #f0dd34;
+    }
+
+    button{
+        padding: 10px 10px;
+        margin: 0rem 7rem;
+        background-color: #f0dd34;
+    }
+    .texture{
+        text-align: center;
+        font-size: larger;
+        background-color: #f0dd34;
+        border: 1px solid #f0dd34;
+    }
+  }
