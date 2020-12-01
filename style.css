@@ -99,7 +99,7 @@ footer{
         opacity: 0.95;
         background-repeat: no-repeat;
         background-attachment: fixed;
-        background-position: 50%;
+        background-position: 50% 90%;
         background-size: contain;
     }
     h1{
