@@ -1,12 +1,12 @@
 body{
     display: block;
-    margin: 2px;
+    margin: auto;
     background-image: url(/assest/evil-minion-minions-gif-despicable-me-minions-holiday-png-clip-art.png);
     opacity: 0.95;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: 50% 50%;
-    background-size: inherit;
+    background-size: contain;
     height: 25px;
 }
 ::-webkit-input-placeholder {
@@ -94,11 +94,10 @@ footer{
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
     body{
         display: block;
-        margin: 2px;
+        margin: auto;
         background-image: url(/assest/evil-minion-minions-gif-despicable-me-minions-holiday-png-clip-art.png);
         opacity: 1;
         background-repeat: no-repeat;
-        background-attachment: fixed;
         background-position: top 20px;
         background-size: cover;
     }
