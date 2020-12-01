@@ -96,10 +96,10 @@ footer{
         display: block;
         margin: 2px;
         background-image: url(/assest/evil-minion-minions-gif-despicable-me-minions-holiday-png-clip-art.png);
-        opacity: 0.95;
+        opacity: 1;
         background-repeat: no-repeat;
         background-attachment: fixed;
-        background-position: 50% 75%;
+        background-position: top 20px;
         background-size: cover;
     }
     h1{
