@@ -5,7 +5,7 @@ body{
     opacity: 0.95;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: 50% 50%;
+    background-position: center center;
     background-size: contain;
     height: 25px;
 }
@@ -98,8 +98,8 @@ footer{
         background-image: url(/assest/evil-minion-minions-gif-despicable-me-minions-holiday-png-clip-art.png);
         opacity: 1;
         background-repeat: no-repeat;
-        background-position: top 20px;
-        background-size: cover;
+        background-position: center center;
+        background-size: contain;
     }
     h1{
         font-style: italic;
