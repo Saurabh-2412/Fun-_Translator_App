@@ -6,7 +6,7 @@
  * Object's
  * DOM Manipulation
  * API call's
- * Debugging the application via network inspector. [Minion Translator](https://minionfuntranslator.netlify.app)
+ * Debugging the application via network inspector. Click on the given link and turn the game on [Minion Translator](https://minionfuntranslator.netlify.app)
  
  ## Tech.
  * FunTranslation API's for translating data
